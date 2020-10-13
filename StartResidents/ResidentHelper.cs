@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WZS.Common;
 
-namespace ConsoleApp1
+namespace StartResidents
 {
     public class ResidentHelper
     {

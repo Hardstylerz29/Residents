@@ -9,7 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using WZS.Common;
 
-namespace ConsoleApp1
+namespace StartResidents
 {
     class Program
     {

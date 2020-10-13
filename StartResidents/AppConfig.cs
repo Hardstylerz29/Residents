@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace ConsoleApp1
+namespace StartResidents
 {
     public class AppConfig
     {
